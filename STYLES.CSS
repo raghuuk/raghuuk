@@ -5,7 +5,7 @@
 }
 
 .container {
-    background-image: url(../images/bg-ground.jpg);
+    background-image: url(/images/bg-ground.jpg);
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -22,28 +22,12 @@
     position: relative;
 }
 
-ul {
-    list-style: none;
-    background: #000000;
-    padding: 10px;
-}
-
-ul li {
-    display: inline;
-    padding: 5px;
-}
-
-ul li a {
-    text-decoration: none;
-    color: #ffffff;
-}
-
 .logo {
 
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bolder;
     cursor: pointer;
     text-decoration: none;
-    max-width: 180px;
+    max-width: 120px;
 
 }
