@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    background-image: url(./IMAGE/todolistbg.png);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1 {
+    text-align: center;
+    width: 40%;
+    font-size: large;
+}
+
+.raghu {
+    color: white;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: arial;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Roboto';
+    color: aliceblue;
+}
+
+h3 {
+    text-align: left;
+    font-weight: 800;
+    font-family: 'Roboto';
+    color: aliceblue;
+}
+
+h4 {
+    text-align: center;
+    font-size: large;
+    font-family: 'Roboto';
+    color: aliceblue;
+    font-weight: 800;
+}
+
+.submit-button {
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+button {
+    padding: 10px 40px;
+    text-align: center;
+    color: rgb(239, 237, 234);
+    background-color: orange;
+    border-radius: flex;
+}
+
+h5 {
+    color: aliceblue;
+    text-decoration: underline;
+}
