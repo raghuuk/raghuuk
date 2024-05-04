@@ -1,8 +1,33 @@
-@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
-
-
-
-h1{
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.navbar-brand{
+    text-decoration: solid;
+    background-color: rgb(236, 108, 108);
+    color: rgb(204, 117, 35);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    background-image: url("https://th.bing.com/th/id/OIP.zM2V4kdu4fL_4O5aoT29kAHaEo?rs=1&pid=ImgDetMain");
+}
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:red;
+    font-size:150%;
+    background-image: url("https://th.bing.com/th/id/OIP.m9US1MyUhAjK62C9-QWw8gHaLH?&w=160&h=240&c=7&pid=ImgDet");
+    background-position:no-repeat;
+    background-size: cover;
+    height: 140vh;
+    width:1400px;
+    margin:2px;
+}
+.container-fluid{
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: 600;
+}
+.navbar navbar-default{
+    background-image:url("https://th.bing.com/th/id/OIP.t1OmDftYKDnlntziAGa0PQHaL2?&w=160&h=240&c=7&pid=ImgDet");
+}
+.text{
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
 }
